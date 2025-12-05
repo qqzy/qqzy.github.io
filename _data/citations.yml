@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-11-28'
+  last_updated: '2025-12-05'
 papers:
   qG7EtdMAAAAJ:2osOgNQ5qMEC:
-    citations: 9
+    citations: 10
     title: 'Free-form motion control: A synthetic video generation dataset with controllable camera and object motions'
     year: '2025'
   qG7EtdMAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: 'Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine'
     year: '2025'
   qG7EtdMAAAAJ:d1gkVwhDpl0C:
-    citations: 3
+    citations: 4
     title: 'Free-form motion control: Controlling the 6d poses of camera and objects in video generation'
     year: '2025'
   qG7EtdMAAAAJ:u-x6o8ySG0sC:
